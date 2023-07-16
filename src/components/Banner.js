@@ -56,7 +56,7 @@ export const Banner = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
-                <h1>{`Hi! I'm Zubaida Wazir`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "MERN  Stack Engineer", "Software Developer" ]'><span className="wrap">{text}</span></span></h1>
+                <h1>{`Hi! I'm Hammad`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "MERN  Stack Engineer", "Software Developer" ]'><span className="wrap">{text}</span></span></h1>
                 <p>My fullname is Hammad Ahmad. I'm 23 years old. I study University of Gujrat 2019.I am a MERN Stack web developer. I can make the website more, more interactive with web animation
            . When I first came to web brain, I had no knowledge of programming.
            But now with the help of strong aspirations and self learning, my level of knowledge has greatly increased and I can freely create web site views that are used in our daily lives
